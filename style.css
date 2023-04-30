@@ -1,0 +1,84 @@
+.redondeado{
+    border-radius:1em;
+}
+.mexicoText{
+    font-size: large;
+    margin-top: 30px;
+    margin-left: 100px;
+    font-weight: 250px;
+
+}
+.superior1{
+    font-size:xx-large ;
+    font-weight: 500;
+
+}
+.superior2{
+    font-weight: 700;
+}
+.mexicoLogo{
+    margin-top: 0px;
+    margin-left: 80px;
+}
+.chiquito{
+    font-size:large ;
+    margin-top: 20px;
+    margin-left: 10px;
+    letter-spacing: -0.05em;
+    line-height: 20% 
+}
+.tituloDato{
+    font-size: small;
+    font-weight: bold;
+}
+.mexicoLogo2{
+    margin-top: 10px;
+
+}
+.fotoLogo{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.elemento{
+    width:300px;
+    height:300px; 
+    background-repeat: no-repeat;
+}
+.texto2{
+    margin-top: 60px;
+}
+.claveLector{
+    margin-top: 30px;
+}
+.CURP{
+    margin-top: 30px;
+}
+.mapaMexico{
+    background-image: url(img/mapaMexico.png);
+    background-size: 600px;
+    margin-left: 200px;
+    width: 580px;
+    height: 350px;
+    position: absolute;
+    z-index:-1;
+}
+.firma{
+    background-image: url(img/firma.png);
+    background-size: 100%;
+    margin-top: 300px;
+    margin-left: 120px;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    z-index:-1;
+}
+.mapaMexico2{
+    background-image: url(img/mapaMexico.png);
+    background-size: 100px;
+    margin-top: 70px;
+    margin-left: 100px;
+    width: 100px;
+    height: 60px;
+    position: absolute;
+    z-index: -1;
+}
